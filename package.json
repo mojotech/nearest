@@ -1,0 +1,19 @@
+{
+  "name": "nearest",
+  "version": "0.1.0",
+  "description": "get the nearest X minutes from a given time",
+  "main": "./lib/nearest.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mojotech/nearest.git"
+  },
+  "keywords": [
+    "time",
+    "near"
+  ],
+  "engines": { "node": ">= 0.4.0" },
+  "author": "Sam Saccone - MojoTech ",
+  "license": "BSD"
+}
